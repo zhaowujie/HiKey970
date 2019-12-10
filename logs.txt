@@ -1,0 +1,5 @@
+##1.falsh img with pre-build tensorflow
+lins ---> http://www.lemaker.org/product-hikey970-download-86.html
+##2.cinfig opencv 
+linnk ---> https://blog.csdn.net/public669/article/details/99044895
+note befor cmake ,you should config python3 as default python interpreter, not python2
